@@ -16,9 +16,9 @@ Rodrigo Medeiros Costa
 
 | Nome | Matrícula | Usuário no GitHub |
 |------|-----------|-------------------|
-| [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| [PREENCHER, se houver] | [PREENCHER] | [PREENCHER] |
-| [PREENCHER, se houver] | [PREENCHER] | [PREENCHER] |
+| Julio Rodrigues Alves | 04158882 | Dev-Julio0 |
+| Osvaldo Marcelo Dos Santos Castro | 04153974 | devCastro0 |
+| Bianca Lorrane Azevedo da Silva | 04168995 | bia-bit |
 
 ## 4. Descrição do problema
 
@@ -158,9 +158,9 @@ Resumo (detalhes em [`docs/reflexao.md`](docs/reflexao.md)):
 
 | Integrante | Contribuição |
 |------------|--------------|
-| [PREENCHER] | [PREENCHER] |
-| [PREENCHER, se houver] | [PREENCHER] |
-| [PREENCHER, se houver] | [PREENCHER] |
+| Julio Rodrigues | Coordenação geral do repositório, estruturação da arquitetura do projeto com o paradigma imperativo, implementação do fluxo principal em main.py, criação da suíte de testes unitários (unittest) e validação da integração das funcionalidades. |
+| Osvaldo Castro | Implementação das regras de negócio para depósitos, saques e tratamento de valores monetários com a biblioteca Decimal, além do desenvolvimento das funções de formatação e exibição de extrato. |
+| Bianca Azevedo | Implementação da validação e tratamento robusto de entradas do usuário, desenvolvimento do menu de opções, mensagens de feedback ao operador e documentação complementar do projeto. |
 
 ## 16. Vídeo de demonstração
 
